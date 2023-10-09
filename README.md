@@ -3,14 +3,14 @@ Created Interactive Dashboard &amp; Analyzed core underlying causes of poor empl
 
 ## **Project Objective**
 
-Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** provider wants us to create an interactive dashboard to analyse the employee performance indexes and track the core underlying causes of their performance issues (clear indicators of non-performing employees).
+Mr Brain, CEO of the **INX Future Inc. data analytics and automation solutions** provider wants us to create an interactive dashboard to analyse the employee performance indexes and track the core underlying causes of their performance issues (clear indicators of non-performing employees).
 
 ## **Questions (KPIs)**
 - Does educational level responsible for the attrition of employees?
 - Which age group of employees has the maximum attrition?
 - Are the employees unsatisfied with the specific job role?
 - Which top 5 job role indicates the maximum attrition of employees?
-- Does a highly experienced person responsible for leaving the company?
+- Is a highly experienced person responsible for leaving the company?
 - How does the % salary hike play a crucial role in the increase in attrition of the employee?
 
 ## **Dataset used**
@@ -23,7 +23,7 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 
 - Built an interactive dashboard to track and analyse employee performance based on attrition and various job roles.
 - Used complex parameters to drill down in worksheets and customization using filters and slicers. 
-- Created connections, join new columns, and enable user-driven parameters for visualizations.
+- Created connections, joined new columns, and enabled user-driven parameters for visualizations.
 - Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, map, slicers, tables, etc).
 
 ## **Dashboard**
@@ -32,11 +32,11 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 
 ## **Project Insight**
 
-- Out of the 1200 employees, 178 of them going to leave INX Future Inc data analytics company (indicating a 15% attrition rate). 
-- The employees with educational backgrounds in the field of Life Sciences (37%), Medical (25%) and Marketing (17%), indicating high attrition.
-- The maximum number of employees between 26 - 35 age, depicts high attrition (90 employees).
+- Out of the 1200 employees, 178 will leave INX Future Inc. data analytics company (indicating a 15% attrition rate). 
+- The employees with educational backgrounds in the fields of Life Sciences (37%), Medical (25%) and Marketing (17%), indicating high attrition.
+- The maximum number of employees between 26 and 35 depicts high attrition (90 employees).
 - The employees from the job role of sales executive (44), developer (40), sales representative (24), research scientist (13) and manager R&D (12) show high attrition.
-- The 46 employees after gaing two years of work experience they leave the company.
+- The 46 employees after gaining two years of work experience leave the company.
 - The low salary hike % of employees (between 10% - 15%) indicates the high attrition rate.
 
 
